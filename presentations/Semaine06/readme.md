@@ -39,8 +39,8 @@ Pour faire une présentation sur test et IA choisissez un des sujets listés ci-
 
 [demo] [TestSpark](https://github.com/JetBrains-Research/TestSpark)
 - Nom: Andrei Bituleanu
-- Présentation: 
+- Présentation: https://starplatinumsan.github.io/TestSpark/
 
 [demo] [Guardrails](https://github.com/guardrails-ai/guardrails)
 - Nom: Andy Nguema Luemba
-- Présentation: 
+- Présentation: https://drive.google.com/file/d/1t3rLU0pxmpfDuo57qZJ0yTnLJiHNMlbs/view?usp=sharing
